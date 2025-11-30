@@ -10,3 +10,5 @@ https://public.tableau.com/app/profile/sandhya.b.s/vizzes
 
 https://public.tableau.com/app/profile/sandhya.b.s/viz/Earthquake_Analysis_Final/EarthquakeAnalysisQ2
 
+https://public.tableau.com/app/profile/sandhya.b.s/viz/TeslasalesVsLithium-CaseStudy/TeslaSalesVsLithiumcaseStudy
+
